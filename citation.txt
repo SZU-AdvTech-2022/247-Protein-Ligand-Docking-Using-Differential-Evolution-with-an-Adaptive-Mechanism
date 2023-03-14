@@ -1,0 +1,8 @@
+@article{REPO-248,
+    author = "Song, Shuangbao and Chen, Xingqian and Zhang, Yanxin and Tang, Zheng and Todo, Yuki",
+    issue_date = "Nov 2021",
+    journal = "Know.-Based Syst.",
+    title = "{Protein¨CLigand Docking Using Differential Evolution with an Adaptive Mechanism}",
+    volume = "231",
+    year = "2021"
+}
