@@ -1,4 +1,4 @@
-@article{REPO-248,
+@article{REPO-247,
     author = "Song, Shuangbao and Chen, Xingqian and Zhang, Yanxin and Tang, Zheng and Todo, Yuki",
     issue_date = "Nov 2021",
     journal = "Know.-Based Syst.",
